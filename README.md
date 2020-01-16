@@ -1,9 +1,13 @@
 # stage
-#ENVIRONEMENT DE TRAVAIL 
+# ENVIRONEMENT DU TRAVAIL 
 docker 19.03.5
+
 docker-compose 1.17.1
+
 python 2.7.17
+
 Odoo 12.0
+
 PostgreSQL 
 # Run Module 
 cd stage
